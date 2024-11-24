@@ -1,0 +1,62 @@
+## Prokletí básnící
+- odmítají mravní, politické a estetické normy společnosti
+- ignorují společnost
+- provokují tvorbou -> nová témata
+### Charles Baudelaire
+- [[Umělecké směry konce 19. století#Dekadence|dekadence]]
+- [[Umělecké směry konce 19. století#Symbolismus|symbolismus]]
+- překladatel děl E. A. Poe
+- bohém
+- milenka "Černá Venuše"
+- #### znaky tvorby
+	- metafory
+	- symboly
+	- aliterace
+	- synestezie ^1d174f
+		- míšení vjemů ^7301fa
+	- krása v ošklivosti
+- #### díla
+	- Sb. Květy zla - 6 oddílů 126 básní ([[Charles Baudelaire - Zdechlina|Zdechlina]])
+		- Splean a ideál
+		- Pařížské obrazy
+		- Víno
+		- Květy zla
+		- Vzpoura
+		- Smrt
+### Paul Verlaine
+- [[Umělecké směry konce 19. století#Impresionismus|impresionismus]]
+- [[Umělecké směry konce 19. století#Dekadence|dekadence]]
+- [[Umělecké směry konce 19. století#Symbolismus|symbolismus]]
+- bohém
+- #### znaky tvorby
+	- lyrické verše
+	- parnasismus
+		- báseň dokonalé formy
+	- hudebné, smyslové, náznakové, symbolické verše
+	- eufónie ^fa5e94
+		- zvukomalba
+- #### díla
+	- Sb. Saturnské básně ([[Paul Verlaine - Podzimní píseň|Podzimní píseň]])
+	- Sb. Moudrost
+	- Sb. Romance beze slov
+	- [[Paul Verlaine - Píseň beze slov|Píseň beze slov]]
+### Arthur Rimbaud
+- [[Umělecké směry konce 19. století#Symbolismus|symbolismus]]
+- bohém
+- #### znaky tvorby
+	- neplatí pro něj pravidla
+	- verše plné fantazie
+	- asociace
+		- jedna myšlenka vyvolá myšlenku další
+	- synestezie ^e67ddb
+		- míšení vjemů
+	- kritika společnosti
+- #### díla
+	- Sb. Iluminace
+		- [[Arthur Rimbaud - Opilý koráb|Opilý koráb]]
+		- Samohlásky
+		- [[Arthur Rimbaud - Mé bohémství|Mé bohémství]]
+		- Spáč v úvalu
+		- Večerní modlitba
+	- Sb. Sezóna v pekle
+		- [[Arthur Rimbaud - Noc v pekle|Noc v pekle]]

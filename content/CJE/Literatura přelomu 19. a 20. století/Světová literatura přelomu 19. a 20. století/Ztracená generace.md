@@ -1,0 +1,90 @@
+- Mladá generace poznamenaná 1. světovou válkou
+- Gertrude Steinová
+- Mladí spisovatelé který prožili své mládí na frontě -> Vrátili se fyzicky a duševně zmrzačení -> nemohli se začlenit do společnosti, vést běžný život
+- Ztratili *nejlepší* část svého života,ideály o životě, budoucnosti
+- ## Umělecké směry
+	- pacifismus ^a13515
+		- odmítání války, násilí
+		- pacifista je přesvědčen o možnosti mírumilovného řešení mezinárodních sporů za každých podmínek a okolností.
+	- humanismus ^8b0035
+		- fr. *humanus* = lidský
+		- smysl a rozum / kult víry
+		- důraz na přirozenou rovnost všech lidí před bohem
+### Francis Scott Fitzgerald
+- **Americký** prozaik a scénárista
+- #### Znaky tvorby
+	- uvolněná atmosféra *zlatých dvacátých let*
+	- prózy mají společné téma
+		- Osudovou lásku a střet hlavního hrdiny s *americkým snem* ->být bohatý a slavný
+		- dílo je kritikou konzumní americké společnosti
+- #### Díla
+	- Na prahu ráje (autobiografický román)
+		- názory a hodnoty ml. generace po 1. sv
+	- [[Velký Gatsby - Francis Scott Fitzgerald|Velký Gatsby (román)]]
+		- život newyorské společenské smetánky
+	- Něžná je noc (román)
+### Ernest Hemingway
+- **Americký** prozaik,publicista, nositel Nobelovy ceny
+- #### Znaky tvorby
+	- hl. hrdina v krajní životní situaci kdy mu jde o život, tehdy se projeví jeho charakter
+	- metoda ledovce
+		- úsporný autorský styl (autor něco napíše ale myslí tím mnohem více)
+	- **témata**
+		- příroda
+		- sport
+		- lov
+- #### Díla
+	- Zelené pahorky africké
+		- osobní zážitky z lovu zvěře v Africe
+	- Sbohem, armádo
+		- příběh lásky mezi raněným vojákem a mladou ošetřovatelkou
+	- Komu zvoní hrana
+<<<<<<< HEAD
+	- [[Stařec a moře - Ernest Hemingway Tom|Stařec a moře]] (novela)
+=======
+	- [[Stařec a moře - Ernest Hemingway|Stařec a moře]] (novela)
+>>>>>>> 6c2100b0f8d3dbb41ac67dc5b5354f688a812fff
+		- kniha o lidském snažení, o boji, oslavě prostého člověka
+### John Steinbeck
+- **Americký** prozaik, publicista, nositel Nobelovy ceny
+- #### Znaky tvorby
+	- autor je výborný vypravěč
+	- Sociálně-kritická díla
+	- Autor vychází z vlastních zkušeností
+	- Venkov je útočištěm před chaosem velkoměsta
+	- půda a příroda mají až mýtický charakter
+	- postavy jsou živočišné a náruživé
+	- člověk není izolovaný jedinec, je součástí lidstva, planety i kosmu
+- #### Díla
+	- Hrozny hněvu (sociálně kritický román)
+	- [[O myších a lidech - John Steinbeck|O myších a lidech (novela)]]
+	- Na plechárně 
+		- život mexické sociální spodiny
+	- Toulavý autobus
+	- Na východ od ráje
+		- o rivalitě bratrů -> vychází z mýtu o Kainu a Ábelovi
+### Romain Rolland
+- **Francouzský** prozaik, dramatik, hudební historik, nositel NC
+- odsuzuje válku už od samého počátku -> národní zrada
+- #### Znaky tvorby
+	- protiválečné zaměření
+	- [[#^a13515|pacifista]]
+	- [[#^8b0035|humanista]]
+- #### Díla
+	- Jan Kryštof (román řeka)
+	- Dobrý člověk ještě žije (román)
+	- [[Petr a Lucie - Romain Rolland|Petr a Lucie (protiválečná novela)]] 
+### Erich Maria Remarque
+- **původem německý** prozaik
+- **emigroval** do New Yorku -> americké občanství
+- #### Znaky tvorby
+	- píše o *ztracené generaci*
+	- antifašistická díla
+- #### Díla
+	- [[Na západní frontě klid - Erich Maria Remarque|Na západní frontě klid (protiválečný román)]]
+	- Cesta zpátky
+		- volné pokračování románu Na západní frontě klid
+	- Tři kamarádi (román)
+	- Vítězný oblouk
+	- Jiskra života
+	- Čas žít, čas umírat

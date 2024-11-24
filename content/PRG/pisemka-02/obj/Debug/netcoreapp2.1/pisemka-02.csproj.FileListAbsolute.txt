@@ -1,0 +1,11 @@
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\bin\Debug\netcoreapp2.1\pisemka-02.deps.json
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\bin\Debug\netcoreapp2.1\pisemka-02.runtimeconfig.json
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\bin\Debug\netcoreapp2.1\pisemka-02.runtimeconfig.dev.json
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\bin\Debug\netcoreapp2.1\pisemka-02.dll
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\bin\Debug\netcoreapp2.1\pisemka-02.pdb
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\obj\Debug\netcoreapp2.1\pisemka-02.csprojAssemblyReference.cache
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\obj\Debug\netcoreapp2.1\pisemka-02.csproj.CoreCompileInputs.cache
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\obj\Debug\netcoreapp2.1\pisemka-02.AssemblyInfoInputs.cache
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\obj\Debug\netcoreapp2.1\pisemka-02.AssemblyInfo.cs
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\obj\Debug\netcoreapp2.1\pisemka-02.dll
+D:\Users\P_T4A\Desktop\prg\pisemka-02\pisemka-02\obj\Debug\netcoreapp2.1\pisemka-02.pdb

@@ -1,0 +1,19 @@
+- Systém pro kontrolu chodu programu
+- založen na čítači
+	- čítač čítá impulzy ze **speciálního 128KHz oscilátoru** 
+	- v hlavní programové smyčce je umístěna instrukce, která tento čítač pravidelně nuluje
+	- ==Pokud nedojde v průběhu programu k vynulování čítače, tak při přečtení dojde k vyvolání přerušení nebo resetu procesoru==
+- ### Pro řízení slouží registr **WDTCSR**
+	- **WDIE** = příznak o přerušení 
+		- povolení přerušení
+		- #### je-li bit nastaven
+			- při přečtení čítače se vyvolá **přerušení**
+		- #### není-li nastaven
+			- při přerušení čítače se vyvolá **reset**
+	- **WP0-3** = slouží k nastavení doby přetečení  (10ms-8ms)
+	- **WDCE** = master bit pro vypnutí watchdog(u)
+		- pro změnu doby přetečení nebo vypnutí nastaven do log. 1
+	- **WDE** = zapnutí watchdog(u)
+- Pro možnost resetu procesoru pomocí watchdog(u) musí být nastaven bit **WDRF** v registru **MCUSR**
+- Watchdog je možné použít pro **probuzení procesoru z režimu spánku**.
+	- **Nižší spotřeba** něž při použití časovače

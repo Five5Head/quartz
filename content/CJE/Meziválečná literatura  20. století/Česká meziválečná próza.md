@@ -1,0 +1,176 @@
+## [[Přehled všech uměleckých směrů#Legionářská literatura|Legionářská literatura]]
+### Jaroslav Hašek 
+- prozaik, básník, novinář, humorista, bohém, hospodský povaleč, milovník zvířat
+- toulal se po Evropě
+- Přidal se k anarchistům 
+- 1915 - narukoval do Rakousko-Uherské armády
+- #### Díla:
+	- ##### Osudy dobrého vojáka Švejka za světové války
+		- satirický humoristický román
+		- románová tetralogie *(4 díly)* 
+		- všechny díly směřují k jedinému - **zesměšnit válku a staré nesmyslné pořádky prostřednictvím lidového humoru**
+		- V knize se střetává chaos a absurdita válčícího světa s živelně optimistickou povahou Švejka
+		- **švejk = mazaný ulejvák**
+
+## [[Přehled všech uměleckých směrů#Demokratický proud|Demokratický proud]]
+### Karel Čapek
+- prozaik, dramatik, novinář, překladatel *(fr. lit.)*, filozof
+- byl redaktorem Lidových novin
+- V jeho vile se každý pátek scházeli tzv. **pátečníci**, přátelé, kteří spolu probírali politické a kulturní problémy doby 
+- #### **Pojmy**
+	- ##### Noetika
+		- nauka o hranicích poznání
+		- **Neexistuje absolutní pravda = pravda je relativní**
+		- existuje několik pohledů na pravdu 
+	- ##### Pragmatismus
+		- pravdivé je to, co je pro člověka užitečné, prospěšné
+		- pravda sama o osobě neexistuje, ale vztahuje se k člověku v konkrétní životní situaci
+	- ##### Utopie
+		- něco fantastického, vysněného 
+		- v utopických dílech K. Čapka se objevuje nějaký převratný vynález a jeho neblahé důsledky pro lidstvo, katastrofy se tak stávají **varováním** pro lidstvo
+	- ##### Humanismus
+		- popis života obyčejného člověka
+		- Člověk = práce + láska + tvořivost
+	- ##### Čapkovský hrdina
+		- obyčejný člověk, skromný, pokorný, vážící si práce, člověka, života
+		- člověk cítící zodpovědnost za své činy a marně bojující proti celému lidstvu a jeho touze po boji, moci a penězích
+- #### **Díla**
+	- ##### Povídky, krátké prózy, fejetony
+		- Krakonošova zahrada *(soubor novinářský próz)*
+		- Zářivé hlubiny 
+		- Boží muka 
+		- Trapné povídky *(Filozofické detektivky)*
+	- ##### Cestopisy
+		- Italské listy
+		- Anglické listy
+		- Cesta na sever
+		- Obrázky z Holandska
+	- ##### Dramatické a románové utopie
+		- R.U.R *(vědeckofantastické hra)*
+			- poprvé zaznělo slovo ROBOT
+			- dílo je varováním před zneužitím vědy a techniky
+		- Věc Makropulos *(drama)*
+		- Továrna na absolutno *(román)*
+		- Krakatit *(román)*
+	- ##### Protifašistická a protiváleční díla
+		- Bílá nemoc *(drama: tragédie)*
+			- Doktor Galén = obyčejný člověk
+		 - Matka 
+		 - Válka s Mloky *(protifašistický utopický alegorický román)*
+	- ##### Noetická trilogie
+		- Hordubal *(román)*
+		- Povětroň *(román)*
+		- Obyčejný život
+	- ##### Tvorba pro děti
+		- Devatero pohádek a ještě jedna od Josefa Čapka jako přívažek 
+		- Dášenka čili život štěněte 
+		- Pudlenka aneb měl jsem psa a kočku 
+### Karel Poláček 
+- novinář, prozaik, humorista
+- židovský původ 
+- pocházel z *Rychnova nad Kněžnou*
+- zemřel v plynové komoře v koncentračním táboře
+- #### Znaky tvorby
+	- **život maloměsta** (zvyky, zlozvyky, chování, mluva)
+	- **prostředí českých židů** (židovské zvyky a návyky znamenitě karikoval)
+	- vynikající vypravěč, stylista, satirik 
+	- autor inteligentního humoru, sžíravého sarkasmu 
+	- tvůrce vtipných novotvarů a vět, které přešly do frazeologie *(„ten mi může být ukradenej“)*
+- #### Díla
+	- ##### Literatura pro děti
+		- Edudant a Francimor
+		- **Bylo nás pět** *(próza)*
+			- Kniha je světem Poláčkova mládí v Rychnově nad Kněžnou, viděným dětskýma očima
+	- ##### Humoristické knihy
+		- Muži v ofsajdu
+		- Hostinec U kamenného stolu *(román)*
+	- ##### Přírodopis maloměšťáctví
+		- Dům na předměstí *(román)*
+		- Hlavní přelíčení *(román)*
+		- Židovské anekdoty
+	
+## [[Přehled všech uměleckých směrů#Avantgardní próza (Imaginativní/Básnická próza)|Avantgardní próza (Imaginativní/Básnická próza)]]
+### Vladislav Vančura
+- prozaik, dramatik, filmový scenárista a režisér, lékař
+- představitel avantgardy
+- byl 1. předsedou Devětsilu
+- **Devětsil**= skupina českých avantgardních umělců (název po bylině Devětsil)
+- #### Znaky tvorby
+	- prózy plné archaismů, knižních výrazů, přechodníků, nářečí
+	- **bohaté metafory**
+	- složitá a šroubovaná souvětí
+	- **autorský vypravěč** = autor komunikuje se čtenářem, oslovuje ho, ptá se na jeho názor
+	- nekomplikované literární postavy, přímočaré, plné života (loupežníci, vrazi, milenky, podivíni, snílci)
+	- **poetismus** = český směr 20. let 20. století 
+		- základem je optimismus, hravost, lyrika, radost všedního dne, interpretaci čerpá z lidové zábavy, básně jsou často bez interpunkce
+- #### Díla
+	- Pekař Jan Marhoul *(román)*
+	- Pole orná a válečná *( protiválečný román)*
+	- **Rozmarné léto** *(humoristická, jazykově vytříbená, poetistická novela)*
+		- **poetismus** - hravost, kouzelník, komedianti, zábava, exotika dálek, optimismus
+		- **kritika** - maloměšťáctví, nuda, prázdnota 
+		- **jazyk**- mluví o ničem vznešeným jazykem (jazyková komika)
+	- Konec starých časů *(román)*
+	- Hrdelní pře aneb přísloví
+	- Kubula a Kuba Kubikula *(dětská kniha)*
+	- Obrazy z dějin národu českého
+## [[Přehled všech uměleckých směrů#Psychologická próza|Psychologická próza]]
+### Jaroslav Havlíček
+- prozaik a básník
+- **představitel psychologické prózy mezi válkami**
+- #### Znaky díla
+	- hl. hrdinové jsou cizinci ve světě, ve kterém žijí
+	- hl. hrdiny jsou různě degenerovaní jedinci
+	- zájem o vnitřní pohnutky a skryté motivy jednání hrdinů
+	- sugestivní, naturalistické líčení tragických lidských osudů (vypravěč přistupuje k postavám nemilosrdně, nepřináší jim žádnou útěchu)
+- #### Díla
+	- **Neviditelný** *(román)*
+		- prvky hororu, naturalismu, detektivních postupů
+		- **pochmurný příběh** o dědičném šílenství měšťanského domu Hajnů, do kterého se vypočítavě přižení sobecký a nemilosrdný inženýr Petr Švejcar
+		- V románu jsou proti sobě postaveny dvě krajní psychologické polohy – chladná racionalita a fantasmagorické šílenství
+	- **Petrolejové lampy** *(psychologický román)*
+		- Petrolejové lampy - symbol rodiny, rodina se sejde u petrolejky
+## [[Přehled všech uměleckých směrů#Levicově orientovaná próza (Socialisticko-Realistick próza)|Levicově orientovaná próza (Socialisticko-Realistick próza)]]
+### Ivan Olbracht 
+- představitel psychologické prózy a socialistického realismu (levicově orientované prózy)
+- #### Znaky tvorby
+	- hl. hrdinové jsou výjimeční – rebelové, vyděděnci
+	- inspirace Podkarpatskou Rusí
+	- problematika židovství
+- #### Díla
+	- O zlých samotářích *(tři tulácké povídky)*
+	- Žalář nejtemnější *(psychologický román)*
+	- Podivné přátelství herce Jesenia
+	- Anna proletářka *(příběh venkovské dívky)*
+	- Golet v údolí *(hebrejsky golet = exil, 3 povídky)*
+	- Biblické příběhy
+	- **Nikola Šuhaj loupežník** *(román)*
+		- vychází ze skutečných událostí (z případu negramotného Rusína)
+		- dílo je propojením legendy se skutečným příběhem válečného zběha z 1. sv. války
+		- **dílo je**
+			- mýtem *(příroda má lidské vlastnosti)*
+			- baladou 
+			- reportáží *(Podkarpatská Rus je místo Bohem i lidmi opuštěné, je zde velká bída a hlad)*
+			- uměleckou prózou *(bohaté metafory)*
+			- dokumentární a fantazijní
+			- propojením epiky s lyrikou *(líčení přírody)*
+## [[Přehled všech uměleckých směrů#Katolicky orientovaná próza|Katolicky orientovaná próza]]
+### Jaroslav Durych
+- představitel katolické prózy/spirituálního proudu
+- prozaik, básník, dramatik, publicista
+- disident 1. republiky (nebyl zastáncem)
+- #### Znaky tvorby
+	- inspirace baroka (neustálý souboj dobra x zla)
+	- autor kontrastů (dobro x zlo, světlo x tma)
+	- dějinami hýbou nadprůměrní jedinci, ne masy
+	- dokonalá dějepisná příprava
+	- chudobu a bídu chápe jako boží vyznamenání
+	- pojetí ženy jako krásné, chudé, a duchovně založené dívky
+	- svým dílem se snažil zvýšit náb. a kulturní úroveň českého katolicismu 
+- #### Díla
+	- Bloudění *(román)*
+	- Rekviem *(tři povídky)*
+		- Kurýr 
+		- Valdice
+			- Motiv ticha spojené se smrtí věčným životem, který se vysmívá pomíjivosti pozemského života 
+		- Budějovická louka

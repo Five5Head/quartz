@@ -1,0 +1,116 @@
+## [[Umělecké směry přelomu 19. a 20. století]]
+## Anarchističtí buřiči
+- [[Umělecké směry přelomu 19. a 20. století#anarchismus|Anarchismus]]
+- Básníci "života a vzdoru"
+- Básnící počátku 20. stol, navazují na českou modernu
+- Autory spojuje bohémský život = *žijí ze dne na den, užívají si chvíle, nepřemýšlí co bude v budoucnosti*
+	- setkání v Neumanově vile -> časopisy Nový kult, Moderní revue
+- Opovrhují soudobou společností
+- Odmítají konzervativní morálku
+- Propagují volnou lásku
+- **Znaky**
+	- Vliv anarchismu
+	- Vliv antimilitarismu
+	- Snaha přiblížit se životu, skutečnosti všedního dne
+	- Jazyk přirozený, hovorový, bez složitých metafor, slang, vulgarismy
+	- Lyrika, písňové formy, jednoduché členění slok, pravidelný rým, rytmus
+	- Časté motivy
+		- Bohém
+		- Hospoda
+		- Tulák
+		- Příroda
+### Fráňa Šrámek
+- [[Umělecké směry přelomu 19. a 20. století#impresionismus|Impresionismus]], [[Umělecké směry přelomu 19. a 20. století#vitalismus|vitalismus]], [[Umělecké směry přelomu 19. a 20. století#anarchismus|anarchismus]]****
+- Básník mládí
+- Popisuje pocity ml. člověka, radosti a strasti dospívání
+- #### Témata v tvorbě
+	- Příroda
+	- Odpor k válce
+	- Milostný vztah mladých lidí, kteří se odmítají podřídit konvencím
+- #### Znaky tvorby
+	- **Poezie**
+		- Lyrické, citové verše
+		- Snaha zachytit citový i smyslový požitek a neopakovatelnost okamžiku
+	- **Próza**
+		- Děj ustupuje do pozadí
+		- Postavy nemají pevné rysy
+	- **Drama**
+		- Lyrika převažuje nad epikou
+		- Cílem je zachytit atmosféru
+- #### Díla
+	- **Poezie**
+		- Života bído, přec tě mám rád
+		- [[Píšou mi psaní - Fráňa Šrámek|Modrý a rudý (píšou mi psaní)]] 
+		- [[Splav - Fráňa Šrámek|Splav]]
+	- **Próza**
+		- Stříbrný vítr
+	- **Drama**
+		- Měsíc na řekou
+### František Gellner
+- "Šansonový zhýralce"
+- Básník
+- Prozaik
+- Karikaturista
+- Ilustrátor
+- Autor politických satir a kupletů
+- Bohém
+- #### Znaky tvorby
+	- Hospoda
+	- Městské scenérie
+	- Hovorový jazyk
+	- Expresní výrazy 
+	- Jednoduché rýmy, rytmus
+	- Sexuální akt
+	- Snaha šokovat
+	- pocit zbytečného člověka
+	- Kuplety -> Pouliční písně
+- #### Díla
+	- Sb. Po nás ať přijde potopa
+		- Pocit marnosti -> řeší alkoholem
+		- Vysmívá se světu, sobě
+	- [[Radosti Života - František Gelner|Sb. Radosti života]],[[Noc Byla - František Gelner|(Noc byla)]]
+		- Otevřeně hovoří o flámech, erotických zážitcích
+	- Sb. Nové verše
+		- Melancholické verše
+		- Pozitivní stránky života
+### Viktor Dyk
+- #### Znaky tvorby
+	- Pocit deziluze
+	- Rozpor snu a skutečnosti
+	- Útočná ironie, satira
+	- Pointa
+	- Nadosobní idea národa
+- #### Díla
+	- **Politická lyrika**
+		- Buřiči
+		- Satiry a sarkasmy
+		- Pohádky z naší vesnice
+	- **Básnická skladba**
+		- Milá sedmi loupežníků
+	- **Vlastenecké bojová poezie**
+		- Lehké a těžké kroky
+		- Anebo
+		- Okno
+		- Poslední rok
+	- **Intimní lyrika**
+		- Sb. Devátá vlna
+	- **Symbolické drama**
+		- Zmoudření dona Quijota
+	- [[Krysař - Viktor Dyk|Krysař]]
+### Petr Bezruč
+- Pseudonym *(Aby nepřišel o místo v práci)*
+- Sociální balada
+	- Orientuje se na vztahy ve společnosti, a především se orientuje na nerovný boj chudých a bezmocných s životem, s bohatými. Básně: Kantor Halfar, Maryčka Magdonová
+- Skutečně, Vladimír Vašek
+- #### Dílo
+	- [[Slezské písně - Petr Bezruč|Slezské písně]]
+### František Xaver Šalda
+- Představitel české literární kritiky
+- Povýšil kritiku na umění
+- Mistr kritického eseje
+- #### Díla
+	- Duše a dílo
+	- Boje o zítřek
+### Stanislav Kostka Neumann
+- #### Díla
+	- [[Zpěvy drátů - Stanislav Kostka Neumann|Zpěvy drátů]]

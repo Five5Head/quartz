@@ -1,0 +1,23 @@
+Otázka: Co je prave za rok
+A) 2024
+B) 2023
+C) 2025
+Správná odpověď: 2024
+Možný počet bodů: 4
+
+Otázka: jak je dnes den
+A) 10
+B) 11
+C) 23
+Správná odpověď: 10
+Možný počet bodů: 1
+
+Otázka: -98 x 54 je?
+A) 2664
+B) -5292
+C) 216
+Správná odpověď: -5292
+Možný počet bodů: 3
+
+
+8bodů

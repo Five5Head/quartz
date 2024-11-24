@@ -1,0 +1,89 @@
+#hidden 
+## Metody přidělování paměti
+- Vysvětli metodu "Stránkování paměti" a porovnej ji s metodou "Segmentace paměti" a "Přidělování souvislé oblasti paměti".
+- Uváděj hlavní rozdíly, přínosy, rizika.
+## Odpověď
+- ### **Vysvětli metodu "Stránkování paměti" a porovnej ji s metodou "Segmentace paměti" a "Přidělování souvislé oblasti paměti".**
+    - #### Stránkování paměti
+        - Logická paměť je rozdělena na **stránky** stejné velikosti _(4KB)_
+        - Fyzická paměť je rozdělena na **rámce** **stejné** velikosti jako stránky _(4KB)_
+        - Existuje tzv. **page table**, tato tabulka obsahuje číslo stránky, číslo rámce, řídící bity a slouží pro překlad LAP adresy na FAP adresu.
+        - Adresa paměti se skládá ze dvou částí
+            - ##### číslo stránky
+                - číslo stránky v LAP(u)
+            - ##### offset
+                - vzdálenost od začátku stránky
+        - ilustrační obrázek![[Překlad adres pomocí stránkovací tabulky.svg]]
+    - #### Segmentace paměti
+        - Logický adresový prostor je kolekcí segmentů. Každý segment má název a délku. Adresy specifikují jak název segmentu, tak i offset v rámci segmentu. Programátor proto specifikuje každou adresu pomocí dvou veličin: názvu segmentu, respektive čísla a offsetu.
+        - Pro segmentaci paměti se používá **segmentační tabulka** ta obsahuje
+            - ##### Base
+                - obsahuje adresu začátku segmentu ve fyzické paměti
+            - ##### Limit
+                - obsahuje offset segmentu _(délka segmentu)_
+    - #### Přidělování souvislé oblasti paměti
+        - Načte sae proces, za něj se načítají další,...
+        - Když se proces ukončí, vznikne díra, další proces se načte podle těchto pravidel
+            - ##### First Fit
+                - Proces je načten do první díry která je dostupná
+            - ##### Best Fit
+                - Proces je načten do díry v paměti která je nejblíže jeho velikosti
+            - ##### Worst Fit
+                - Proces je načten do největší díry
+- ### **Uváděj hlavní rozdíly, přínosy, rizika.**
+    - #### Stránkování paměti
+        - ##### výhody
+            - umožňuje efektivní využití paměti
+        - ##### nevýhod
+            - interní fragmentace
+            - stránkovací tabulka zabírá místo v paměti
+    - #### Segmentace paměti
+        - ##### výhody
+            - segmentační tabulka zabírá méně místa v paměti než stránkovací tabulka
+            - umožňuje lepší ochranu paměti a sdílení mezi procesy
+        - ##### nevýhod
+            - externí fragmentace
+    - #### Přidělování souvislé oblasti paměti
+        - ##### výhody
+            - jednoduchá implementace, nepotřebuje žádnou tabulku
+            - rychlý přístup
+        - ##### nevýhody
+            - externí fragmentace
+            - omezená flexibilita při správě paměti pro velké procesy
+---
+## Virtuální paměť
+- Vysvětli, co je a co umožňuje virtuální paměť
+- Převeď nastavení virtuální paměti v GNU/Linux nebo ve Windows 10.
+- Je výhodnější swapovat do souboru nebo na partition?
+## Odpověď
+- ### **Vysvětli, co je a co umožňuje virtuální paměť**
+    - Virtuální paměť, jinak Logický adresový prostor _(LAS / LAP)_, je množina všech logických adres generovaných programem
+    - Umožňuje
+        - #### Udržovat více procesů v paměti
+            - Některé stránky určitých procesů nemusí být do paměti načteny a můžou být uloženy na disk když nejsou potřeba. **_(swapping)_**
+        - #### Umožnit běh procesu který je větší než samotná fyzická paměť
+            - Proces, který zabírá hodně místa v paměť může být spuštěn i když jeho velikost přesahuje velikost fyzické paměti. Toto je možné skrze **demand paging**
+        - #### Umožňuje větší multiprogramming
+            - kvůli ukládání nepoužívaných procesů na disk
+- ### **Je výhodnější swapovat do souboru nebo na partition?**
+    - #### swapovací soubor
+        - ##### Výhody
+            - Rychlost přístupu
+                - Přístup k partition bývá rychlejší než přístup k souboru
+            - Stabilita
+                - Swapování do partition(u) není ovlivněno dalšími souborovými operacemi
+        - ##### Nevýhody
+            - Pevně daná velikost
+                - Při vytváření partition(u) je vytvořen s určitou velikostí, pro změnu velikosti by bylo nutné upravit partition, pokud ale vytvořil systém další partition(y) na adrese která následuje po swap(u) museli by se posunou všechny partition(y), toto by bylo časově náročné
+            - Vyžaduje správu diskových oddílů
+                - K vytváření a správě jsou nutné speciální nástroje
+    - #### swapovací partition
+        - ##### Výhody
+            - Flexibilita
+                - Velikost souboru může být jednoduše změněna
+            - Jednoduchost
+                - Nevyžaduje speciální nástroje na správu, _(je to prostě soubor)_
+        - ##### Nevýhody
+            - Rychlost přístupu
+            - Fragmentace souboru
+                - Soubor může být fragmentován po disku, tím se sníží jeho rychlost přístupu

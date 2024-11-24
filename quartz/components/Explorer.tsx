@@ -14,7 +14,15 @@ const defaultOptions = {
   folderDefaultState: "collapsed",
   useSavedState: true,
   mapFn: (node) => {
-    return node
+    // dont change name of root node
+    if (node.depth > 0) {
+      // set emoji for file/folder
+      if (node.file) {
+        node.displayName = node.displayName
+      } else {
+        node.displayName = node.displayName
+      }
+    }
   },
   sortFn: (a, b) => {
     // Sort order: folders first, then files. Sort folders and files alphabetically
@@ -33,7 +41,11 @@ const defaultOptions = {
       return -1
     }
   },
-  filterFn: (node) => node.name !== "tags",
+  filterFn: (node) => {
+    const excludedTags = ["excalidraw", "hidden"];
+    
+    return node.file?.frontmatter?.tags?.some(tag => excludedTags.includes(tag)) !== true;
+  },
   order: ["filter", "map", "sort"],
 } satisfies Options
 

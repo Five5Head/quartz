@@ -1,0 +1,1 @@
+- **Hledáš soubor?** Je možné že obsidian zrovna ten soubor co hledáš neukazuje, budeš muset jít do průzkumníka souborů a najít si ho ručně.

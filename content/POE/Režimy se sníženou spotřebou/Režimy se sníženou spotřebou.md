@@ -1,0 +1,53 @@
+- **Normální spotřeba 10-14mA**
+- Tyto režimy se využívají při nutnosti sníží spotřeby -> napájení z baterie, ze záložního zdroje...
+- Pro výběr se používá registr SMCR
+- ### 6 režimů snížené spotřeby
+	- #### Idle
+		- **spotřeba 2,7 - 4mA**
+		- instrukce sleep je poslední instrukce kterou procesor vykonal
+		- funkční
+			- AD převodník
+			- analogový komparátor
+			- I/O porty
+			- TWI
+			- Č/Č
+			- watchdog
+		- vypnuto
+			- hlavní oscilátor -> **nevykonává se program**
+	- #### ADCNRM
+		- snižuje rušení od analogových operací
+		- funkční
+			- AD převodník
+			- analogový komparátor
+			- I/O porty
+			- TWI
+			- Č/Č
+			- watchdog
+		- vypnuto
+			- digitální porty
+	- #### Power-down
+		- **spotřeba 5-15uA**
+		- z režimu se dostaneme přerušením nebo resetem
+		- funkční
+			- vnější přerušení
+			- TWI
+			- watchdog
+		- vypnuto
+			- vše ostatní
+	- #### Power-save
+		- v asyn. režimu čítá časovač impulzy z vnějšího oscilátoru 
+		- funkční
+			- Č/Č2  v asyn. režimu
+	- #### Standby
+		- návrat do standardního je  režimu rychlý -> 6 taktů oscilátoru
+		- funkční
+			- hlavní oscilátor
+		- vypnuto
+			- Č/Č
+	- #### Extended Standby
+		- funkční
+			- Č/Č v asyn. režimu
+- ### dalšími způsoby jak šetřit energii jsou
+	- vypnutí oscilátorů samotných komponent
+	- snížení taktovací frekvence (použití vnitřního oscilátoru)
+	- snížení napájecího napětí [[Reset procesoru#^a1d65c|(programová pojistka)]]

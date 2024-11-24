@@ -1,0 +1,19 @@
+## Oscar Wilde
+- [[Umělecké směry konce 19. století#Dekadence|dekadence]]
+- impresionismus
+- symbolismus
+- šokoval londýnskou společnost
+	- homosexualita
+	- způsob oblékání
+- **autorské pohádky**
+	- mají svého autora
+	- nevycházejí z ULS
+- #### díla
+  - Strašidlo cantervillské - pohádka
+  - Sb. Šťastný princ a jiné pohádky ([[Oscar Wilde - Slavík a růže|Slavík a růže]]) - pohádky
+  - román 
+	  - Obrazy Doriana Graye
+	  - **dandy** (nemorální muž, který žije zahálčivým způsobem života)
+  - drama
+	  - Jak je důležité míti Filipa
+	  - Salomé

@@ -1,0 +1,117 @@
+#hidden 
+## Definice a funkce operačních systémů
+- Definuj operační systém výpočetního systému s využitím pojmů
+	- Výpočetní systém
+	- Fyzické prostředky výpočetního systému
+	- Logické prostředky výpočetního systému
+## Odpověď
+- ### **Výpočetní systém**
+	- Skládá se z hardware *(fyz. prostředků)* a softwaru *(log. prostředků)*, tyto společně umožňují provádění výpočtů, zpracování dat atd.
+- ### **Fyzické prostředky výpočetního systému**
+	- Zahrnují veškerý HW, který tvoří výpočetní systém. *(RAM, CPU, SSD disk, HDD disk)*, dále zde také patří I/O *(klávesnice, myš, monitor, tiskárna)*
+- ### **Logické prostředky výpočetního systému**
+	- Zde spadá veškerý software který tvoří výpočetní systém. Mezi hlavní prostředky patří samotný operační systém, ten zajišťuje správu paměti, řízení procesů, správu souborů, I/Os. Dále zde spadají uživatelské programy, pro jejichž fungování je potřeba OS.
+---
+## Definice a funkce operačních systémů
+- Vysvětli funkce operačního systému
+	- Z hlediska hardware
+	- Z hlediska aplikací
+	- Z hlediska programátora
+	- Z hlediska uživatele
+## Odpověď
+- ### **Zjednodušeně**
+    - správa paměti
+    - správa procesů
+    - správa uživatelů
+    - správa periferií
+    - správa systému
+    - správa souborů
+    - poskytuje uživatelské rozhraní
+    - poskytuje aplikační rozhraní
+- ### **Z hlediska hardware**
+    - Operační systém spravuje
+        - #### procesy
+            - monitoruje procesy
+            - určuje prioritu procesům
+            - přiděluje/odebírá zdroje procesům
+            - umožňuje mezi-procesovou komunikaci
+            - eviduje procesy
+        - #### paměť
+            - defragmentuje paměť
+            - přiřazuje/odebírá procesům paměť
+            - spravuje virtuální paměť
+            - spravuje vnitřní paměť
+            - zabezpečuje paměť
+            - umožňuje procesům sdílet paměť
+        - #### periferie
+            - přiřazuje/odebírá procesům přístup k I/Os
+            - spravuje I/Os
+            - řeší kolize
+            - řeší přerušení
+            - monitoruje stavy periferii
+        - #### uložiště
+            - spravuje soubory a souborové systémy
+            - organizuje data
+- ### **Z hlediska aplikací**
+    - Operační sytému spravuje
+        - #### API
+            - slouží aplikacím pro komunikaci s HW výpočetního systému _(práce s uložištěm, pamětí, vytváření dceřiných procesů,...)_
+        - #### uživatelské rozhraní
+            - GUI
+            - CLI
+- ### **Z hlediska programátora**
+    - Operační sytému spravuje
+        - #### knihovny a API
+            - slouží pro jednoduššímu přístup k HW výpočetního systému a správě systémových prostředků
+- ### **Z hlediska uživatele**
+    - Operační sytému spravuje
+        - #### uživatelské účty
+        - #### uživatelské soubory
+        - #### uživatelem spuštěné procesy
+---
+## Typy operačních sytému
+- Rozděl operační systém podle následujících kritérii a uváděj konkrétní příklady operačních systémů
+    - Podle počtu procesorů
+    - Podle počtu uživatelů
+    - Podle počtu spuštěných programů
+    - Podle uživatelského rozraní
+    - Podle role v počítačové síti
+    - Realtime operační systémy
+## Odpověď
+- ### **Podle počtu procesorů**
+    - #### Jednoprocesorové
+        - všechny procesy běží na jednom procesoru
+        - vždy může běžet pouze jeden proces
+    - #### Víceprocesorové
+        - ##### SMP _(symetrický multiprocessing)_
+            - procesy můžou běžet na jakémkoli procesoru. protože mají stejná práva přístupu k systémovým prostředkům
+            - procesy jsou dynamicky přidělovány procesorům, tak aby se zátěž rozdělila na všechny procesory _(grafické zpracování - GPU, složité výpočty - CPU)_
+        - ##### ASMP _(asymetrický multiprocessing)_
+            - využívá se zde více procesorů, které mají různé odpovědnosti
+            - jeden procesor je vyhrazen pouze na systémové procesy _(master procesor)_
+            - další procesor může být vyhrazen na uživatelské procesy _(slave procesor)_
+        - ##### NUMA (non uniform memory access)
+            - paměť je rozdělena na uzly *(uzel je paměťovou sběrnicí pro jeden nebo více procesorů)*
+            - Smyslem je škálovatelnost, zefektivnění komunikaci procesu a paměti
+- ### **Podle počtu uživatelů**
+    - #### Jednouživatelské
+        - DOS
+        - WIN s DOS jádrem
+    - #### Víceuživatelské
+        - UNIX
+        - LINUX
+        - WIN s NT jádrem
+- ### **Podle počtu spuštěných programů**
+    - #### Jedno úlohové
+        - DOS
+        - WIN s DOS jádrem
+    - #### Víceúlohové
+        - UNIX
+        - LINUX
+        - WIN s NT jádrem
+- ### **Podle uživatelského rozraní**
+- ### **Podle role v počítačové síti**
+    - #### Desktopové OS
+    - #### Serverové OS
+- ### **Realtime operační systémy**
+---

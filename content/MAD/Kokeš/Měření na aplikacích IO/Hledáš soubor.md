@@ -1,0 +1,1 @@
+- Bohužel word nejde v obsidianu zobrazit, budeš muset zajít do průzkumníka

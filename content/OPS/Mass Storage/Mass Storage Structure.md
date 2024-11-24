@@ -1,0 +1,77 @@
+## Hard Disk
+![[Hard Disk.png]]
+- ### Random Access Time
+	- #### Seek time
+		- Čas, který je potřeba, aby se rameno přesunulo na požadovaný cylindr
+	- #### Rotation Latency
+		- Čas, který je potřeba, aby se sektor v *určitém cylindru* otočil k hlavici (head)
+- ### Transfer Rate
+	- Rate at which data flow between the drive and the computer
+- ### Head Crash
+	- Nastává při kontaktu hlavy s plochou disku -> disk je nenávratně poškozen -> musím být vyměněn
+- ### RPM
+	- Rotations per minute
+	- Jednotka rychlosti točení disku
+	- čím větší tím rychlejší čtení/zápis dat
+- ### Disk Controller ^d75358
+	- PCB Na disku -> Disk controller
+	- Spravuje disk-drive HW podle commandů které obdrží od [[#^af3062|Host controlleru]]
+	- Controller circuit which enables the CPU to communicate with a hard disk
+- ### Host Controller ^af3062
+	- Vyskytuje se na hostovi -> Host controller
+	- Potřebuje-li PC přistoupit k disku resp. provést I/O operaci, pošle access command zde, host controller přepošle command na [[#^d75358|Disk controller]]
+	- #### [[Memory Management|Cache]]
+		- Data s hard disku se načtou z disku nejdříve do cache, z cache si je už bere host controller větší rychlostí 
+- ### CHS Addressing
+	- Cylinder
+	- Head
+	- Sector
+## Solid-State Disk
+- Non-volatilní *(nezávisí na přívodu elektrické energie)* paměťová média
+- ==Výhodou SSD== je jejich rychlost a spolehlivost díky absenci mechanický prvků
+- ==Nevýhodou SSD== je jejich vyšší cena, menší kapacita, *kratší životnost* 
+- ### DRAM
+	- Volatilní paměť
+	- Může obsahovat baterii pro eliminaci možné ztráty dat při výpadku
+- ### Flash paměti
+	- #### SLC (single-level cell)
+		- Ukládá pouze jeden bit dat do každé buňky -> to zajišťuje ==vyšší spolehlivost== a ==rychlost přístupu== v kontrastu s ==nízkou kapacitou== ve srovnání s jinými flash pamětmi
+	- #### MLC (multi-level cell)
+		- Ukládá více bitů do jedné buňky -> ==větší kapacita== v kontrastu s ==menší spolehlivostí== a nižší ==rychlost přístupu==
+## Disk Attachment
+- ### Storage Area Network (SAN) ^03dd54
+	- Přístup ze sítě
+	- Enterprise použití
+	- Výhody
+		- Oproti [[#^824522|NAS]] je že SAN je privátní síť *(využívající storage protokoly)* která spojuje servery a klienty, přičemž disky komunikují se servery
+		- Flexibilita - K SAN se může připojit více klientů a disků
+		- Úložišti může být dynamicky alokováno uživatelům 
+	- SAN je propojena pomocí [[#^2248de|FC]], nebo také [[#^62bb35|InfiniBand]]
+	- #### SAN Switch
+		- Řídí přístup klientů k úložišti
+- ### Network Attached Storage (NAS) ^824522
+	- Přístup ze sítě
+	- Bývá implementována s RAID polem
+	- Výhody
+		- Poskytuje jednoduchý způsob sdílení dat mezi klienty na síti
+	- Nevýhody
+		- Menší efektivita a nižší výkon něž [[#^494a9f|HAS]]
+		- Při I/O operacích se využívá šířka pásma na LAN -> ==Zvýšení latence==
+- ### Host-Attached Storage (HAS) ^494a9f
+	- Přístup lokálně pomocí I/O portů
+	- I/O sběrnice IDE/ATA *(max. 2 disky na sběrnici)*, dnes již SATA
+	- Servery využívají [[#^2248de|Fibre Channel]] architekturu
+	- Varianty
+		- #### Large switched fabric
+			- 24-bitový adresový prostor
+			- Základ [[#^03dd54|SAN]]
+			- Výhodou je velká flexibilita v I/O komunikaci -> ==můžeme připojit hodně hostů a disků==
+		- #### FC-AL ^a479ed
+			- Zařízení jsou propojené v [[#^04ac72|arbitované smyčce]] smyčce
+			- Můžeme připojit 126 zařízení *(disků a hostů)*
+			- *Arbitovaná smyčka* ^04ac72
+				- Zařízení jsou propojeny v smyčce, který je řízena prostřednictvím arbitačního mechanismu, ten určuje které zařízení má právo komunikovat v daném okamžiku.
+- ### Fibre Channel  ^2248de
+	- Vysoká rychlost přes optiku/měděný drát, má dvě varianty
+- ### InfiniBand ^62bb35
+	- Specializovaná sběrnice poskytující hardwarovou a softwarovou podporu pro vysokorychlostní propojovací sítě pro servery a úložné jednotky.

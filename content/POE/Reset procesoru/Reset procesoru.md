@@ -1,0 +1,17 @@
+- Pomocí resetu se procesor uvádí do výchozího stavu
+- nuluje se paměť dat
+- program se znovu spustí od adresy 0
+- ### Reset může být spuštěn těmito způsoby
+	- #### Při zapnutí napájení
+	- #### Externí reset
+		- přivedení nulové úrovně po dobu min 2,5us na špičku RST(non)
+	- #### Brown-out
+		- chyba napájecího napětí
+		- pokles napětí pod určitou úroveň
+		- úroveň napětí je nastavována programovou pojistkou ^a1d65c
+		- **největší vliv na AD převodník a [[EEPROM|EEPROM]]**
+	- #### [[Watch dog|reset watchdog(u)]]
+		- nastává při přetečení čítače, pokud je watchdog aktivní a není povoleno přerušení
+	- #### reset od rozhraní JTAG
+		- standardní rozhraní
+		- používáno při zápisu do paměti a pro ladění programu

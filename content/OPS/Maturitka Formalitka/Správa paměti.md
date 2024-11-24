@@ -1,0 +1,81 @@
+#hidden 
+## Správa paměti
+- Proč potřebujeme spravovat paměť
+- Vysvětli začlenění správce paměti do architektury operačního systému a vysvětli funkce správce paměti.
+- Jak správce paměti adresuje paměť? K vysvětlení použij pojmy LAP, FAP, překlad adres.
+- Proč potřebujeme řešit ochranu paměti? Vysvětli princip, jak ochrana paměti funguje.
+## Odpověď
+- ### **Proč potřebujeme spravovat paměť**
+    - #### Ideální paměť by měla mít tyto vlastnosti
+        - nekonečně velká
+        - rychlá
+        - levná
+        - persistentní
+    - #### Paměti bohužel ideální nejsou a proto potřebujeme paměť spravovat
+        - ##### Procesy potřebují paměť
+        - ##### OS potřebuje paměť
+        - ##### Paměť potřebuje ochranu
+            - Jádra Os před procesy
+            - Paměti procesu před ostatními procesy
+            - Sdílení paměti mezi vlákny
+            - Sdílení paměti mezi procesy
+- ### **Vysvětli začlenění správce paměti do architektury operačního systému a vysvětli funkce správce paměti.**
+    - #### správce paměti _(MMU - memory management unit)_ má za úkol
+        - ##### Přidělovat operační paměť jednotlivým procesům
+        - ##### Udržovat informace o paměti, o tom, které část je volná a která přidělená
+        - ##### Zařezovat paměť, kterou procesy uvolní, opět do volné části.
+        - ##### Odebírat paměť procesům _(je-li to zapotřebí)_
+        - ##### Zajistit ochranu paměti
+            - **Žádný** procesy by neměl mít přístup k paměti jestliže mu to vlastník paměti nepovolí
+        - ##### Relokaci paměti
+            - Dynamicky přiděluje procesu jinou oblast paměti_(swapping)_
+            - Překládá adresu LAP _(logický adresový prostor)_ na FAP _(fyzický adresový prostor)_
+- ### **Jak správce paměti adresuje paměť? K vysvětlení použij pojmy LAP, FAP, překlad adres.**
+    - K adresování paměti se využívá tzv. **překlad adres / stránkování paměti**
+    - #### Lineární paměť (LAP)
+        - Je rozdělena na **stránky** o velikosti **4KB**, tomu odpovídá o velikost **rámce** _(frame)_ v FAPu
+        - Adresa **_(0x00004AC6)_** v této paměti se skládá z
+            - čísla stránky **_(0x00004)_**
+            - offsetu **_(velikost 12 bitů pro 4KB stránku, 0xAC6= 2758 bytů)_**
+    - #### Fyzická paměť (FAP)
+        - Je rozdělena na **rámce** _(frame)_ o stejné velikosti jako **stránky**, tedy **4KB**
+        - Existuje stránkovací tabulka která se používá k překladu **čísla stránky** na **číslo rámce** _(WIN - pagefile.sys, LINUX - swap partition)_
+    - při překladu adres zůstává offset stejný, mění se pouze číslo stránky _(stránkovací tabulka)_
+    - důležitou roli zde hraje také řídící bity
+        - ##### Bit přítomnosti _(Present bit)_
+        - ##### Bit pro čtení/zápis _(Read/Write bit)_
+        - ##### Bit uživatele/systému _(User/Supervisor bit)_
+        - ##### Bit přístupnosti _(Access bit)_
+        - ##### Bit špinavé stránky _(Dirty bit)_
+        - ##### Bit stránkovacího vyrovnávacího zámku _(Page Cache Disable bit)_
+        - ##### Bit pro psaní _(Write Through bit)_
+    - #### Ilustrační obrázek![[Překlad adres pomocí stránkovací tabulky.svg]]
+- ### **Proč potřebujeme řešit ochranu paměti? Vysvětli princip, jak ochrana paměti funguje.**
+    - #### Paměť potřebujeme chránit z těchto důvodů
+        - ##### Izolace procesů
+            - procesy nemají přistup do paměti jiných procesů bez povolení
+        - ##### Zabezpečení
+            - uživatelské procesy nemají přístup k systémovým procesům
+        - ##### Stabilita systému
+            - přístup k neexistující adrese neovlivní stabilitu systému
+    - #### Jak ochrana paměti funguje
+        - Ochrana paměti je realizována pomocí několika mechanismů
+        - ##### Stránkovací tabulka a řídící bity
+        - ##### Segmentace
+        - ##### AAA _(Authentication Authorization Accounting)_
+        - ##### Výpadky stránek (Page Fault Handling)
+---
+## Paměť výpočetního sytému
+- Co všechno je vy výpočetním systému paměť?
+- Rozděl paměti podle rychlosti přístupu, kapacity, ceny, energetické závislosti
+## Odpověď
+- **Co všechno je vy výpočetním systému paměť?**
+    - #### Registry
+    - #### Cache
+    - #### Hlavní paměť _(RAM)_
+    - #### SSD, HDD
+    - #### vnější paměť _(disk, flash disk)_
+    - #### zálohovací paměť (CD, DVD, magnetické pásky)
+- **Rozděl paměti podle rychlosti přístupu, kapacity, ceny, energetické závislosti**
+    - #### Ilustrační obrázek![[OPS/Maturitka Formalitka/Attachments/Memory pyramid.png]]
+---
