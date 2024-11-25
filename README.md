@@ -1,3 +1,3 @@
 # Quartz v4
 
-command pro update ~~~npx quartz sync~~~
+command pro update `npx quartz sync`
