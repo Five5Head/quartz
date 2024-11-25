@@ -51,9 +51,9 @@ Pokud najdeš chybu nebo nesrovnalost, klikneš zde [GitHub](https://github.com/
 
 Už mi pár lidí _"vyhrožovalo"_ že mi chce za zápisky zaplatit *(pořád mi to přijde absurdní)*... Já vám to tedy umožňujím a ne jenom mě, ale i Tomovi a Šimonovi, kteří se na tomto taky podíleli. Neberte to tak, že se snažím vydolovat peníze ze třídy, to vůbec. Každý má k zápisům přístup a tak to i zůstane.
 
-- **Šimon**: `123456789/0100`
-- **Tom**: `123456789/0100`
-- **Dan**: `123456789/0100`
+- **Šimon**: `nemám číslo`
+- **Tom**: `nemám číslo`
+- **Dan**: `4171973083/0800`
 
 ---
 
