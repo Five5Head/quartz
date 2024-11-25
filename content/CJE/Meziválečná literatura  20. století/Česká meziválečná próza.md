@@ -11,6 +11,11 @@
 		- všechny díly směřují k jedinému - **zesměšnit válku a staré nesmyslné pořádky prostřednictvím lidového humoru**
 		- V knize se střetává chaos a absurdita válčícího světa s živelně optimistickou povahou Švejka
 		- **švejk = mazaný ulejvák**
+		- **Postavy**:
+			- Karel Vaněk
+			- Josef Švejk
+			- poručík Dub
+			- paní Mullerová 
 
 ## [[Přehled všech uměleckých směrů#Demokratický proud|Demokratický proud]]
 ### Karel Čapek
@@ -49,14 +54,25 @@
 		- R.U.R *(vědeckofantastické hra)*
 			- poprvé zaznělo slovo ROBOT
 			- dílo je varováním před zneužitím vědy a techniky
+			- **Postavy**:
+				- Alquist
+				- Domin
+				- Primus
+				- Helena
 		- Věc Makropulos *(drama)*
 		- Továrna na absolutno *(román)*
 		- Krakatit *(román)*
 	- ##### Protifašistická a protiváleční díla
-		- Bílá nemoc *(drama: tragédie)*
-			- Doktor Galén = obyčejný člověk
+		- Bílá nemoc *(drama: tragédie)
+			- **Postavy:**
+				- Doktor Galén = obyčejný člověk
+				- baron Krug
+				- Maršál 
+				- Dr. Sigelius 
 		 - Matka 
 		 - Válka s Mloky *(protifašistický utopický alegorický román)*
+			 - **Postavy:**
+				 - Pan Povondra
 	- ##### Noetická trilogie
 		- Hordubal *(román)*
 		- Povětroň *(román)*
@@ -81,6 +97,12 @@
 		- Edudant a Francimor
 		- **Bylo nás pět** *(próza)*
 			- Kniha je světem Poláčkova mládí v Rychnově nad Kněžnou, viděným dětskýma očima
+			- **Postavy:**
+				- Petr Bajza (hl. postava)
+				- Antonín Bejval
+				- Čeněk Jirsák 
+				- Eda Komlink
+				- Josef Zilvar 
 	- ##### Humoristické knihy
 		- Muži v ofsajdu
 		- Hostinec U kamenného stolu *(román)*
@@ -110,10 +132,15 @@
 		- **poetismus** - hravost, kouzelník, komedianti, zábava, exotika dálek, optimismus
 		- **kritika** - maloměšťáctví, nuda, prázdnota 
 		- **jazyk**- mluví o ničem vznešeným jazykem (jazyková komika)
+		- **Postavy:**
+			- Antonín DůraI
 	- Konec starých časů *(román)*
 	- Hrdelní pře aneb přísloví
 	- Kubula a Kuba Kubikula *(dětská kniha)*
 	- Obrazy z dějin národu českého
+	- Markéta Lazarová 
+		- **Postavy**:
+			- Mikoláš Kozlík
 ## [[Přehled všech uměleckých směrů#Psychologická próza|Psychologická próza]]
 ### Jaroslav Havlíček
 - prozaik a básník
@@ -128,8 +155,14 @@
 		- prvky hororu, naturalismu, detektivních postupů
 		- **pochmurný příběh** o dědičném šílenství měšťanského domu Hajnů, do kterého se vypočítavě přižení sobecký a nemilosrdný inženýr Petr Švejcar
 		- V románu jsou proti sobě postaveny dvě krajní psychologické polohy – chladná racionalita a fantasmagorické šílenství
+		- **Postavy**:
+			- Cyril
+			- Petr Švejcar
 	- **Petrolejové lampy** *(psychologický román)*
 		- Petrolejové lampy - symbol rodiny, rodina se sejde u petrolejky
+		- **Postavy:**
+			- Štěpánka Kiliánová
+			- Pavel 
 ## [[Přehled všech uměleckých směrů#Levicově orientovaná próza (Socialisticko-Realistick próza)|Levicově orientovaná próza (Socialisticko-Realistick próza)]]
 ### Ivan Olbracht 
 - představitel psychologické prózy a socialistického realismu (levicově orientované prózy)
@@ -154,6 +187,8 @@
 			- uměleckou prózou *(bohaté metafory)*
 			- dokumentární a fantazijní
 			- propojením epiky s lyrikou *(líčení přírody)*
+		- **Postavy:**
+			- Eržika
 ## [[Přehled všech uměleckých směrů#Katolicky orientovaná próza|Katolicky orientovaná próza]]
 ### Jaroslav Durych
 - představitel katolické prózy/spirituálního proudu
@@ -174,3 +209,5 @@
 		- Valdice
 			- Motiv ticha spojené se smrtí věčným životem, který se vysmívá pomíjivosti pozemského života 
 		- Budějovická louka
+		- **Postavy:**
+			- Albrecht z Valdštejna
