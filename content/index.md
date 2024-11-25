@@ -39,12 +39,13 @@ Pokud najdeš chybu nebo nesrovnalost, klikneš zde [GitHub](https://github.com/
 
 ## ✨ Change Log
 > [!todo] **Aktuální**
-> ### 24.11.2024
-> - Zveřejnení stránky
-> - Otestování automatické aktualizace
+> ### 25.11.2024
+> - Upravení této stránky
 
 ### 24.11.2024
 - Vytvořena tato stránka
+- Zveřejnení stránky
+- Otestování automatické aktualizace
 ---
 
 ## ❤️ Pro toho, kdo má hodně peněz...
