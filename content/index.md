@@ -39,6 +39,7 @@ Pokud najdeš chybu nebo nesrovnalost, klikneš zde [GitHub](https://github.com/
 > - Aktualizace týdenního rozpisu
 > - Opravení chybného zobrazování obrázků
 > - Přidání sekce "Nejnovější poznámky"
+> - Opravení datování souborů
 
 ### 25.11.2024
 - Upravení této stránky
