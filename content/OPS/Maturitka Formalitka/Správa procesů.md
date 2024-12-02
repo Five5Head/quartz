@@ -32,8 +32,7 @@
     - #### TERMINATED
         - do tohoto stavu se proces dostane je-li dokončen, jeho výchozí stav je **RUNNING**
         - event který je volán při přesunu procesu ze stavu **RUNNING** do stavu **TERMINIATED** je: **exit**
-    - #### ilustrační obrázek![](blob:app://obsidian.md/c072d9b4-04f6-4025-9f63-f8f115e5137f)
-        
+    - #### ilustrační obrázek![[OPS/Maturitka Formalitka/Attachments/Stavy procesů.svg]]
 - ### **V jakých frontách může proces čekat na své další zpracování?**
     - #### Job Queue
         - Procesy v této frontě čekají na přidělení místa v paměti RAM

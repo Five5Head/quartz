@@ -42,9 +42,17 @@ const defaultOptions = {
     }
   },
   filterFn: (node) => {
+    // Set of folders or names to exclude
+    const excludedFolders = new Set(["attachments","index"]);
+    // List of tags to exclude
     const excludedTags = ["excalidraw", "hidden"];
-    
-    return node.file?.frontmatter?.tags?.some(tag => excludedTags.includes(tag)) !== true;
+
+    const isExcludedFolder = excludedFolders.has(node.name.toLowerCase());
+
+    const isExcludedTag =
+      node.file?.frontmatter?.tags?.some((tag) => excludedTags.includes(tag)) === true;
+
+    return !isExcludedFolder && !isExcludedTag;
   },
   order: ["filter", "map", "sort"],
 } satisfies Options

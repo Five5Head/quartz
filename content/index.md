@@ -1,8 +1,6 @@
 ---
 title: Home
 draft: false
-tags:
- - hidden
 ---
  
 # Vítejte na maturitním vaultu
@@ -21,26 +19,29 @@ Pokud najdeš chybu nebo nesrovnalost, klikneš zde [GitHub](https://github.com/
 ---
 
 ## 📓 Blížící se disaster ať už to v podobě písemky nebo úkolu
-> [!important] **Týden od 25.11 do 29.11**
-> ### Pondělí 25.11
-> - Slohovka - CJE
+> [!important] **Týden od 2.12 do 6.12**
+> ### Pondělí 2.12
 > - Zkoušení - POE
-> ### Úterý 26.11
-> - Písemka na meziválečnou prózu - CJE
+> ### Úterý 3.12
 > - Zkoušení - POE
-> ### Středa 27.11
+> ### Středa 4.12
 > - Packet Tracer - POS
-> ### Čtvrtek 28.11
+> ### Čtvrtek 5.12
 > - Nevím on ničem
-> ### Pátek 29.11
+> ### Pátek 6.12
 > - Zkoušení - SIM
 
 ---
 
 ## ✨ Change Log
 > [!todo] **Aktuální**
-> ### 25.11.2024
-> - Upravení této stránky
+> ### 2.12.2024
+> - Aktualizace týdenního rozpisu
+> - Opravení chybného zobrazování obrázků
+> - Přidání sekce "Nejnovější poznámky"
+
+### 25.11.2024
+- Upravení této stránky
 
 ### 24.11.2024
 - Vytvořena tato stránka
@@ -58,4 +59,4 @@ Už mi pár lidí _"vyhrožovalo"_ že mi chce za zápisky zaplatit *(pořád mi
 
 ---
 
-_Dan - 24.11.2024_
+_Dan - 2.12.2024_
