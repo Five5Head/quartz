@@ -1,6 +1,7 @@
 ---
 title: Home
 draft: false
+comments: true
 ---
  
 # Vítejte na maturitním vaultu
