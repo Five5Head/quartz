@@ -17,9 +17,10 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         // from data-category-id
         categoryId: 'DIC_kwDONUJzw84Ck3Lg',
-        themeUrl: "https://example.com/static/giscus", // corresponds to quartz/static/giscus/
-        lightTheme: "noborder_light", // corresponds to light-theme.css in quartz/static/giscus/
-        darkTheme: "noborder_dark", // corresponds to dark-theme.css quartz/static/giscus/
+        mapping: 'title',
+        themeUrl: 'https://arcl01.github.io/quartz/static/giscus', // corresponds to quartz/static/giscus/
+        lightTheme: 'light', // corresponds to light-theme.css in quartz/static/giscus/
+        darkTheme: 'transparent_dark', // corresponds to dark-theme.css quartz/static/giscus/
       }
     }),
   ],

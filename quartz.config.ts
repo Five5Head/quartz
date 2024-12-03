@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "cs-CZ",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "arcl01.github.io/quartz/",
     ignorePatterns: ["private", "templates", ".obsidian","Templaty","README.md","**/Excalidraw/**","PRG","MAD","Quartz-Log.md"],
     defaultDateType: "modified",
     generateSocialImages: false,
